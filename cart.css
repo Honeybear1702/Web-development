@@ -1,0 +1,19 @@
+.red{
+    background-color: red;
+    width: 1500px;
+    height: 30px;
+}
+
+.pro{
+    font-weight: bold;
+}
+
+.quan{
+    margin-left: 400px;
+    font-weight: bold;
+}
+
+.sub{
+    margin-left: 1000px;
+    font-weight: bold;
+}
